@@ -2,27 +2,27 @@
 This is a React application that clones the look and feel of the Netflix website. It allows users to browse movies and TV shows, and watch trailers.
 
 ## Features
-1.Browse movies and TV shows by genre, title, or popularity.
+- Browse movies and TV shows by genre, title, or popularit- 
 
-2.Watch trailers for movies and TV shows
+- Watch trailers for movies and TV shows
 
 ### This application is built using the following technologies:
-1.React
+- React
 
-2.TMDB API
+- TMDB API
 
 ## Getting Started
 To get started with this project, you will need to:
 
-1.Clone this repository to your local machine.
+- Clone this repository to your local machine.
 
-2.Install the dependencies by running npm install.
+- Install the dependencies by running `npm install`.
 
-3.Create a .env file in the root directory of the project and add your TMDB API key.
+- Create a .env file in the root directory of the project and add your TMDB API key.
 
-4.Run the development server by running npm run start.
+- Run the development server by running npm run start.
 
-5.Open your browser to http://localhost:3000 to view the application.
+- Open your browser to `http://localhost:3000` to view the application.
 
 
 ## Contributing
